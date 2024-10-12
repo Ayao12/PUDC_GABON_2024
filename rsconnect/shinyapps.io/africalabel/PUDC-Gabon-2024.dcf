@@ -1,0 +1,12 @@
+name: PUDC-Gabon-2024
+title: PUDC Gabon
+username: africalabel
+account: africalabel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12994490
+bundleId: 9214638
+url: https://africalabel.shinyapps.io/PUDC-Gabon-2024/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

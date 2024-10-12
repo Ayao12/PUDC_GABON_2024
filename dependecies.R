@@ -1,0 +1,17 @@
+
+## app.R ##
+library(shiny)
+library(shinydashboard)
+library(leaflet)
+library(dplyr)
+library(reactable)
+library("RColorBrewer")
+library(maptools)
+library(sf)
+library(sp)
+library(rgdal)
+library(readxl)
+library(sjmisc)
+library(tidyverse)
+library(plotly)
+library(shinyjs)

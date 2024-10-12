@@ -1,0 +1,24 @@
+.columcss{
+  background-color: rgba(2,56,88,0.1);
+  box-shadow: 3px 3px 1px 1px rgba(0,0,0,0.75);
+  padding: 10px;
+}
+
+.columcssub{
+  background-color: rgba(4,90,141,0.1);
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid;
+  border-radius: 4px 4px 4px 4px;
+  fill-opacity: 1;
+  box-shadow: 3px 3px 1px 1px rgba(0,0,0,0.75);
+
+  /*margin-right: 1%;*/
+}
+
+.hrclass{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+   
+}
